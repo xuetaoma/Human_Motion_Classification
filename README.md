@@ -35,7 +35,6 @@ Dataset is from: https://web.archive.org/web/20190901190223/http://www.nada.kth.
 │   ├── jogging
 │   ├── running
 │   └── walking
-├── train_set
 ```
 ## How It Works
 
