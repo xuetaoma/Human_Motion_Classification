@@ -13,6 +13,7 @@ Dataset is from: https://web.archive.org/web/20190901190223/http://www.nada.kth.
 ---
 
 ## Folder Structure
+```
 .
 ├── Visualization.ipynb
 ├── best_params.txt
@@ -35,7 +36,7 @@ Dataset is from: https://web.archive.org/web/20190901190223/http://www.nada.kth.
 │   ├── running
 │   └── walking
 ├── train_set
-
+```
 ## How It Works
 
 1. **Motion History Image (MHI)** is computed from frame differencing with a binary threshold θ and decay constant τ.
